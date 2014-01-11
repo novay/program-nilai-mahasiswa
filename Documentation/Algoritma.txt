@@ -1,0 +1,74 @@
+*******************************************************
+*             Program Penilaian Mahasiswa             *
+*                 Program by : novay                  *
+*           http://ftikom-unmul.nstars.org            *
+*******************************************************
+
+Algoritma Sederhana Program Penilaian Mahasiswa :
+-> Ilustrasi Program :
+
+Program Penilaian Mahasiswa
+
+Menu Program :
+
+1. Tambah Mahasiswa [0]		// Tambah data
+2. Edit Data				// Sunting data
+3. Hapus Data				// Hapus data
+4. Urutkan Data				// Mengurutkan data mahasiswa
+5. Cari Data				// Cari data mahasiswa
+6. View Hasil				// Lihat Hasil Inputan Data
+7. Tutup Program			// Keluar Program
+
+Pilihan anda : ??
+
+- Logika :
+
+a. Jika User memilih nomor 1, maka :
+
+1. Nama	 			: Novianto Rachmady
+2. N I M 			: 1015015072
+3. Ms. Word			: 90
+4. Ms. Excel		: 90
+5. Ms. Powerpoint 	: 90
+Data telah berhasil ditambahkan!
+
+b. Jika User memilih nomor 2, maka :
+
+Anda ingin mengubah data Mahasiswa (y/n) ?
+Masukkan No. Index yang ingin diubah = ???
+1. Nama	 			: Novianto Rachmady
+2. N I M 			: 1015015072
+3. Ms. Word			: 99
+4. Ms. Excel		: 99
+5. Ms. Powerpoint 	: 99
+Data telah berhasil diubah!
+
+c. Jika User memilih nomor 3, maka :
+
+Anda ingin menghapus data mahasiswa (y/n) ?
+Masukkan No. Index yang ingin dihapus = ???
+Data telah berhasil dihapus!
+
+d. Jika User memilih nomor 4, maka :
+
+Maaf, menu sorting belum berfungsi!
+
+e. Jika User memilih nomor 5, maka :
+
+Maaf, menu pencarian belum berfungsi!
+
+f. Jika User memilih nomor 6, maka :
+
+Tabel Data Mahasiswa
+Nilai Rata-Rata, Tertinggi dan Terendah Keseluruhan Data.
+
+g. Jika User memilih nomor 7, maka :
+
+Tutup Program (y/n) ???
+
+Terima Kasih Telah Menggunakan Program Ini!
+(Program berakhir/terminate)
+
+-> Logika Pertanyaan akhir :
+Jika User memasukkan 'y', maka program terminate/selesai.
+Jika User memilih 'n', maka program kembali kemenu utama ???.
