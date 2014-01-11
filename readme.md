@@ -21,11 +21,8 @@ Isinya simpe, cuman satu file `.cpp`. Pada source code program ini sama sekali t
 ####Screenshot
 Halaman Login
 <img src="https://raw.github.com/novay/program-nilai-mahasiswa/master/Screenshot/login.gif" />
-Menu Utama Program
 <img src="https://raw.github.com/novay/program-nilai-mahasiswa/master/Screenshot/mainmenu.gif" />
-Form Tambah Mahasiswa
 <img src="https://raw.github.com/novay/program-nilai-mahasiswa/master/Screenshot/tambah.gif" />
-Hasil Akhir berupa Tabel
 <img src="https://raw.github.com/novay/program-nilai-mahasiswa/master/Screenshot/view.gif" />
  
  
