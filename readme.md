@@ -6,8 +6,8 @@ Isinya simpe, cuman satu file `.cpp`. Pada source code program ini sama sekali t
 
 ####Alat tempur 
 
- - Borland C++
- - ASCII Generator 2
+ - [Borland C++](http://borlandc.org/download-borland-c-3-1/)
+ - [ASCII Generator 2] (http://sourceforge.net/projects/ascgen2/)
 
 ####Fitur
  - Tambah Mahasiswa    -> Untuk menambah data mahasiswa baru
